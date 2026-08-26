@@ -1,6 +1,6 @@
 {
-  "version": "0.1.1",
+  "version": "0.2.0",
   "stage": "Pre-Alpha",
-  "notes": "Voices are about a third cheaper on older Macs, a crash in the master drive is fixed, and you can now save a tweaked sound to your library.",
+  "notes": "Four loop tracks and a multitrack recorder - the mix, any part on its own, and the MIDI, to whichever drive you point it at. Eight more effects, with a filter and a wah the mod wheel opens rather than fades. The ping-pong delay works, and every delay now follows the tempo. In a DAW the rig follows the session's transport and bar lines. There is a click, a count-in, and a panel you can choose the colour of.",
   "url": "https://github.com/rBrown1405/autosampler-releases/releases/latest"
 }
