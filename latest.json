@@ -1,6 +1,6 @@
 {
-  "version": "0.2.1",
+  "version": "0.2.2",
   "stage": "Pre-Alpha",
-  "notes": "The sound library is in the instrument now: open SOUND and press anything you do not have yet, and it downloads and installs itself. SYSTEM says which build you are on and whether it is current, and the startup card waits to be clicked so you can read it. Fixes the update check, which was missing from 0.2.0 entirely.",
+  "notes": "The sound browser now says when it needs a key for the library, instead of showing an empty grid, and it asks again the moment one is pasted rather than at the next launch.",
   "url": "https://github.com/rBrown1405/autosampler-releases/releases/latest"
 }
