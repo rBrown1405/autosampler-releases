@@ -1,6 +1,6 @@
 {
-  "version": "0.2.0",
+  "version": "0.2.1",
   "stage": "Pre-Alpha",
-  "notes": "Four loop tracks and a multitrack recorder - the mix, any part on its own, and the MIDI, to whichever drive you point it at. Eight more effects, with a filter and a wah the mod wheel opens rather than fades. The ping-pong delay works, and every delay now follows the tempo. In a DAW the rig follows the session's transport and bar lines. There is a click, a count-in, and a panel you can choose the colour of.",
+  "notes": "The sound library is in the instrument now: open SOUND and press anything you do not have yet, and it downloads and installs itself. SYSTEM says which build you are on and whether it is current, and the startup card waits to be clicked so you can read it. Fixes the update check, which was missing from 0.2.0 entirely.",
   "url": "https://github.com/rBrown1405/autosampler-releases/releases/latest"
 }
