@@ -1,6 +1,6 @@
 {
-  "version": "0.2.2",
+  "version": "0.2.3",
   "stage": "Pre-Alpha",
-  "notes": "The sound browser now says when it needs a key for the library, instead of showing an empty grid, and it asks again the moment one is pasted rather than at the next launch.",
+  "notes": "Sounds are held at half the memory they were, so a rig that used to push the machine into swapping now fits - the popping under held chords was that, not the CPU. The instrument works out what your computer can take the first time it runs and shows it in SYSTEM > MACHINE, and it says a sound will not fit before it loads it rather than after. And the sustain pedal no longer clicks when it comes up.",
   "url": "https://github.com/rBrown1405/autosampler-releases/releases/latest"
 }
