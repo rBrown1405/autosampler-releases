@@ -1,6 +1,6 @@
 {
   "version": "0.2.3",
   "stage": "Pre-Alpha",
-  "notes": "Sounds are held at half the memory they were, so a rig that used to push the machine into swapping now fits - the popping under held chords was that, not the CPU. The instrument works out what your computer can take the first time it runs and shows it in SYSTEM > MACHINE, and it says a sound will not fit before it loads it rather than after. And the sustain pedal no longer clicks when it comes up.",
+  "notes": "Sounds are held at half the memory they were, so a rig that used to push the machine into swapping now fits - the popping under held chords was that, not the CPU. The sustain pedal no longer clicks when it comes up. The panel is drawn about twice as cheaply and works out for itself what this computer can keep up with, which is what made the interface lag on older Macs - SYSTEM > MACHINE shows what it decided and lets you change it.",
   "url": "https://github.com/rBrown1405/autosampler-releases/releases/latest"
 }
