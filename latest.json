@@ -1,6 +1,6 @@
 {
-  "version": "0.2.15",
+  "version": "0.2.16",
   "stage": "Pre-Alpha",
-  "notes": "No more phasing, even velocity response and 12 dB of headroom. Download it from your account page and sign in with your AutoSampler account; from then on, updates install from inside the app.",
+  "notes": "Strings play smoothly, no more phasing, even velocity response and 12 dB of headroom. Download it from your account page and sign in with your AutoSampler account; from then on, updates install from inside the app.",
   "url": "https://www.autosampler.workers.dev/account/"
 }
