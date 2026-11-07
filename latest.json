@@ -1,6 +1,6 @@
 {
-  "version": "0.2.14",
+  "version": "0.2.15",
   "stage": "Pre-Alpha",
-  "notes": "Playing feels even: velocity layers no longer dip and jump where they blend, sounds load with 12 dB of headroom (saved patches are adjusted to sound the same), the TOUCH calibration is kept gentle, and empty takes are skipped. Download it from your account page; from this version on, updates install from inside the app when you are signed in.",
+  "notes": "No more phasing, even velocity response and 12 dB of headroom. Download it from your account page and sign in with your AutoSampler account; from then on, updates install from inside the app.",
   "url": "https://www.autosampler.workers.dev/account/"
 }
