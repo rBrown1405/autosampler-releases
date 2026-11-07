@@ -1,6 +1,6 @@
 {
-  "version": "0.2.3",
+  "version": "0.2.14",
   "stage": "Pre-Alpha",
-  "notes": "Sounds are held at half the memory they were, so a rig that used to push the machine into swapping now fits - the popping under held chords was that, not the CPU. The sustain pedal no longer clicks when it comes up. The panel is drawn about twice as cheaply and works out for itself what this computer can keep up with, which is what made the interface lag on older Macs - SYSTEM > MACHINE shows what it decided and lets you change it.",
-  "url": "https://github.com/rBrown1405/autosampler-releases/releases/latest"
+  "notes": "Playing feels even: velocity layers no longer dip and jump where they blend, sounds load with 12 dB of headroom (saved patches are adjusted to sound the same), the TOUCH calibration is kept gentle, and empty takes are skipped. Download it from your account page; from this version on, updates install from inside the app when you are signed in.",
+  "url": "https://www.autosampler.workers.dev/account/"
 }
