@@ -1,6 +1,6 @@
 {
-  "version": "0.2.18",
+  "version": "0.2.19",
   "stage": "Pre-Alpha",
-  "notes": "Sounds play as they were sampled, pads restrike cleanly and loading a sound no longer crashes. Download it from your account page and sign in with your AutoSampler account; from then on, updates install from inside the app.",
+  "notes": "Releases no longer jump when you lift the pedal, pianos play louder and the aux keyboards follow the transpose. Download it from your account page and sign in with your AutoSampler account; from then on, updates install from inside the app.",
   "url": "https://www.autosampler.workers.dev/account/"
 }
